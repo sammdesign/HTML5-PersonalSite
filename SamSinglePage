@@ -1,0 +1,59 @@
+<!Doctype HTML>
+<html>
+
+	<head>
+
+	</head>
+
+	<body>
+		<section class="container">
+
+			<header>
+				<nav>
+					<ul>
+						<li><a href="https://twitter.com/samMdesign" target="_blank">@SamMdesign</a></li>
+						<li><a href="http://dribbble.com/samMdesign" target="_blank">Dribbble</a></li>
+						<li><a href="https://www.behance.net/sammdesign" target="_blank">Behance</a></li>
+						<li><a href="https://medium.com/@samMdesign" target="_blank">Medium</a></li>
+						<li><a href="http://www.linkedin.com/pub/sam-moore/14/2b3/1" target="_blank">LinkedIn</a></li>
+						<li><a href="mailto:sam@sammooredesign.com" target="_blank">Contact</a></li>
+					</ul>
+
+			</header>
+
+			<main>
+
+				<section class="dribbble">
+
+				</section> 
+
+
+				<section class="medium">
+
+				</section> 
+
+
+				<section class="behance">
+
+				</section> 
+
+
+				<section class="twitter">
+
+				</section> 
+
+
+				<section class="linkedin">
+
+				</section> 
+
+			</main>
+
+			<footer>
+
+			</footer>
+
+		</section> <!--end container-->
+
+	</body>
+</html>
